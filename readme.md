@@ -1,7 +1,7 @@
 
 
 ## Welcome to my GitHub repository! 
-## IT Engineering Student with a keen interest in becoming a Software Developer. 
+## I'm an IT Engineering Student with a keen interest in becoming a Software Developer. 
  
 
 
