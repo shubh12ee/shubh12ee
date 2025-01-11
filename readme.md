@@ -9,7 +9,8 @@
 - **Web Development**: HTML, CSS, JavaScript
 - **Databases**: MySQL
 - **Version Control**: Git, GitHub
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+
+ ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
  ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
  ![CSS](https://img.icons8.com/color/48/000000/css3.png)
  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
