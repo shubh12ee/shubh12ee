@@ -5,8 +5,8 @@
  
 
 
-- **Programming Languages**: **Java**![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png), C++
-- **Web Development**: **HTML** ![HTML](https://img.icons8.com/color/48/000000/html-5.png), CSS, JavaScript
+- **Programming Languages**: Java, C++
+- **Web Development**: HTML, CSS, JavaScript
 - **Databases**: MySQL
 - **Version Control**: Git, GitHub
 
